@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqPrnzS8VbVVty33X9b77FoURtLcq52oIqw&usqp=CAU">
+<img align="right" alt="Coding" width="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
 👋 Hi, I'm Mohamed Riyasudeen, a dynamic Full Stack Developer with almost 2 years of hands-on experience.<br>🚀 Proficient in designing, developing, and architecting robust backend microservices and cloud-native applications.<br>🏆 Awarded the Bronze Exceptional Work Award at CGI Information Systems for outstanding contributions.<br>🌐 Currently based in India, I'm passionate about bringing innovative solutions to the tech landscape.<br>🌱 Skilled in Java, Kotlin, TypeScript, JavaScript, Angular, Spring Boot, and more.<br>🌟 Always learning and staying updated with the latest trends and technologies in full-stack development.<br>💻 Eager to collaborate on exciting projects and contribute to the ever-evolving world of software development.
 
 ## 🌐 Socials:
